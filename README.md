@@ -6,7 +6,7 @@
 
   <!-- Interactive Dynamic Typing Header -->
   <a href="https://github.com/Manjeetshekhawat0609">
-    <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=28&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=720&lines=Hi+there,+I'm+Manjeet+Singh+Shekhawat;AI+%26+Data+Science+Undergrad;Full-Stack+Developer+%7C+Python+%7C+React;Building+Scalable+%26+Intelligent+Web+Systems;Solving+Problems+on+LeetCode+%26+HackerRank" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=28&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=720&lines=Hi+there,\n+I'm+Manjeet+Singh+Shekhawat;AI+%26+Data+Science+Undergrad;Full-Stack+Developer+%7C+Python+%7C+React;Building+Scalable+%26+Intelligent+Web+Systems;Solving+Problems+on+LeetCode+%26+HackerRank" alt="Typing SVG" />
   </a>
 
   <p align="center">
