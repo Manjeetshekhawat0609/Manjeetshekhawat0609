@@ -189,8 +189,8 @@
   <a href="https://github.com/Manjeetshekhawat0609/project-ml">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Manjeetshekhawat0609&repo=project-ml&theme=tokyonight&hide_border=true&bg_color=05070c&title_color=00f5d4&icon_color=00bbf9&text_color=94a3b8" alt="Project 3" width="48%" />
   </a>
-  <a href="https://github.com/Manjeetshekhawat0609/c-learning">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Manjeetshekhawat0609&repo=c-learning&theme=tokyonight&hide_border=true&bg_color=05070c&title_color=00f5d4&icon_color=00bbf9&text_color=94a3b8" alt="Project 4" width="48%" />
+  <a href="https://github.com/Manjeetshekhawat0609/c_learning">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Manjeetshekhawat0609&repo=c_learning&theme=tokyonight&hide_border=true&bg_color=05070c&title_color=00f5d4&icon_color=00bbf9&text_color=94a3b8" alt="Project 4" width="48%" />
   </a>
 
 </div>
