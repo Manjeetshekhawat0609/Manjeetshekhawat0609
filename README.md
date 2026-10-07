@@ -266,7 +266,7 @@
 </p>
 
 <p align="center">
-  <i>⭐ Agar mera koi project pasand aaye to repo ko star zaroor karna!</i>
+  <i>⭐ If you like my projects, don't forget to star the repo!</i>
 </p>
 
 <p align="center">
