@@ -177,20 +177,20 @@
 <!-- Apne best repos ke naam yahan daalo: repo=REPO_NAME ki jagah actual repo name -->
 <div align="center">
 
-  <a href="https://github.com/Manjeetshekhawat0609/REPO_NAME_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Manjeetshekhawat0609&repo=REPO_NAME_1&theme=tokyonight&hide_border=true&bg_color=05070c&title_color=00f5d4&icon_color=00bbf9&text_color=94a3b8" alt="Project 1" width="48%" />
+  <a href="https://github.com/Manjeetshekhawat0609/Leetcode-practice">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Manjeetshekhawat0609&repo=Leetcode-practice&theme=tokyonight&hide_border=true&bg_color=05070c&title_color=00f5d4&icon_color=00bbf9&text_color=94a3b8" alt="Project 1" width="48%" />
   </a>
-  <a href="https://github.com/Manjeetshekhawat0609/REPO_NAME_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Manjeetshekhawat0609&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=05070c&title_color=00f5d4&icon_color=00bbf9&text_color=94a3b8" alt="Project 2" width="48%" />
+  <a href="https://github.com/Manjeetshekhawat0609/SkillBank-AI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Manjeetshekhawat0609&repo=SkillBank-AI&theme=tokyonight&hide_border=true&bg_color=05070c&title_color=00f5d4&icon_color=00bbf9&text_color=94a3b8" alt="Project 2" width="48%" />
   </a>
 
   <br />
 
-  <a href="https://github.com/Manjeetshekhawat0609/REPO_NAME_3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Manjeetshekhawat0609&repo=REPO_NAME_3&theme=tokyonight&hide_border=true&bg_color=05070c&title_color=00f5d4&icon_color=00bbf9&text_color=94a3b8" alt="Project 3" width="48%" />
+  <a href="https://github.com/Manjeetshekhawat0609/project-ml">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Manjeetshekhawat0609&repo=project-ml&theme=tokyonight&hide_border=true&bg_color=05070c&title_color=00f5d4&icon_color=00bbf9&text_color=94a3b8" alt="Project 3" width="48%" />
   </a>
-  <a href="https://github.com/Manjeetshekhawat0609/REPO_NAME_4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Manjeetshekhawat0609&repo=REPO_NAME_4&theme=tokyonight&hide_border=true&bg_color=05070c&title_color=00f5d4&icon_color=00bbf9&text_color=94a3b8" alt="Project 4" width="48%" />
+  <a href="https://github.com/Manjeetshekhawat0609/c-learning">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Manjeetshekhawat0609&repo=c-learning&theme=tokyonight&hide_border=true&bg_color=05070c&title_color=00f5d4&icon_color=00bbf9&text_color=94a3b8" alt="Project 4" width="48%" />
   </a>
 
 </div>
