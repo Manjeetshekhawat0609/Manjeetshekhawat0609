@@ -73,14 +73,13 @@
 
 | Skill Area | Progress |
 | :--- | :--- |
-| 🧠 Data Structures & Algorithms | ![DSA](https://geps.dev/progress/75?dangerColor=00bbf9&warningColor=00f5d4&successColor=00f5d4) |
+| 🧠 Data Structures & Algorithms | ![DSA](https://geps.dev/progress/60?dangerColor=00bbf9&warningColor=00f5d4&successColor=00f5d4) |
 | 🌐 Full-Stack Development | ![FullStack](https://geps.dev/progress/80?dangerColor=00bbf9&warningColor=00f5d4&successColor=00f5d4) |
-| 🤖 Machine Learning | ![ML](https://geps.dev/progress/65?dangerColor=00bbf9&warningColor=00f5d4&successColor=00f5d4) |
+| 🤖 Machine Learning | ![ML](https://geps.dev/progress/70?dangerColor=00bbf9&warningColor=00f5d4&successColor=00f5d4) |
 | ☁️ System Design & Cloud | ![Cloud](https://geps.dev/progress/55?dangerColor=00bbf9&warningColor=00f5d4&successColor=00f5d4) |
 
 </div>
 
-> 💡 *Progress bars ke numbers apne hisaab se change kar lena (URL me `/progress/75` wali value).*
 
 ---
 
