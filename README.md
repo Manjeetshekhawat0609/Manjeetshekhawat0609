@@ -2,11 +2,11 @@
 <div align="center">
 
   <!-- Animated Wave Banner (Top) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Manjeet%20Singh%20Shekhawat&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%26%20Data%20Science%20%7C%20Full-Stack%20Developer&descSize=18&descAlignY=58" width="100%" alt="Banner" />
+  <img src="./assets/banner.svg" width="100%" alt="Manjeet Singh Shekhawat Banner" />
 
   <!-- Interactive Dynamic Typing Header -->
   <a href="https://github.com/Manjeetshekhawat0609">
-    <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=28&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=720&lines=Hi+there,+I'm+Manjeet+Singh+Shekhawat;AI+%26+Data+Science+Undergrad;Full-Stack+Developer+%7C+Python+%7C+React;Building+Scalable+%26+Intelligent+Web+Systems;Solving+Problems+on+LeetCode+%26+HackerRank" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=24&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=1000&height=50&lines=Hi+there,+I'm+Manjeet+Singh+Shekhawat;AI+%26+Data+Science+Undergrad;Full-Stack+Developer+%7C+Python+%7C+React;Building+Scalable+%26+Intelligent+Web+Systems;Solving+Problems+on+LeetCode+%26+HackerRank" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -15,7 +15,7 @@
 
   <!-- Profile Views + Followers + Stars -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Manjeetshekhawat0609&label=Profile+Views&color=00f5d4&style=for-the-badge" alt="Profile Views" />
+    <img src="https://hits.sh/github.com/Manjeetshekhawat0609.svg?style=for-the-badge&label=Profile%20Views&color=00f5d4&labelColor=05070c" alt="Profile Views" />
     &nbsp;
     <a href="https://github.com/Manjeetshekhawat0609?tab=followers">
       <img src="https://img.shields.io/github/followers/Manjeetshekhawat0609?label=Followers&style=for-the-badge&logo=github&color=00bbf9&labelColor=05070c" alt="Followers" />
@@ -73,13 +73,14 @@
 
 | Skill Area | Progress |
 | :--- | :--- |
-| 🧠 Data Structures & Algorithms | ![DSA](https://geps.dev/progress/60?dangerColor=00bbf9&warningColor=00f5d4&successColor=00f5d4) |
+| 🧠 Data Structures & Algorithms | ![DSA](https://geps.dev/progress/75?dangerColor=00bbf9&warningColor=00f5d4&successColor=00f5d4) |
 | 🌐 Full-Stack Development | ![FullStack](https://geps.dev/progress/80?dangerColor=00bbf9&warningColor=00f5d4&successColor=00f5d4) |
-| 🤖 Machine Learning | ![ML](https://geps.dev/progress/70?dangerColor=00bbf9&warningColor=00f5d4&successColor=00f5d4) |
+| 🤖 Machine Learning | ![ML](https://geps.dev/progress/65?dangerColor=00bbf9&warningColor=00f5d4&successColor=00f5d4) |
 | ☁️ System Design & Cloud | ![Cloud](https://geps.dev/progress/55?dangerColor=00bbf9&warningColor=00f5d4&successColor=00f5d4) |
 
 </div>
 
+> 💡 *Progress bars ke numbers apne hisaab se change kar lena (URL me `/progress/75` wali value).*
 
 ---
 
@@ -143,7 +144,7 @@
 
 <!-- NEW: Contribution Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manjeetshekhawat0609&bg_color=05070c&color=00f5d4&line=00bbf9&point=ffffff&area=true&area_color=00f5d4&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" width="98%" />
+  <img src="./assets/activity-graph.svg" alt="Contribution Graph" width="98%" />
 </div>
 
 ---
@@ -152,7 +153,7 @@
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Manjeetshekhawat0609&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="GitHub Trophies" />
+    <img src="./assets/trophies.svg" alt="GitHub Trophies" />
   </a>
 </div>
 
@@ -176,20 +177,20 @@
 <!-- Apne best repos ke naam yahan daalo: repo=REPO_NAME ki jagah actual repo name -->
 <div align="center">
 
-  <a href="https://github.com/Manjeetshekhawat0609/Leetcode-practice">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Manjeetshekhawat0609&repo=Leetcode-practice&theme=tokyonight&hide_border=true&bg_color=05070c&title_color=00f5d4&icon_color=00bbf9&text_color=94a3b8" alt="Project 1" width="48%" />
+  <a href="https://github.com/Manjeetshekhawat0609/REPO_NAME_1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Manjeetshekhawat0609&repo=REPO_NAME_1&theme=tokyonight&hide_border=true&bg_color=05070c&title_color=00f5d4&icon_color=00bbf9&text_color=94a3b8" alt="Project 1" width="48%" />
   </a>
-  <a href="https://github.com/Manjeetshekhawat0609/SkillBank-AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Manjeetshekhawat0609&repo=SkillBank-AI&theme=tokyonight&hide_border=true&bg_color=05070c&title_color=00f5d4&icon_color=00bbf9&text_color=94a3b8" alt="Project 2" width="48%" />
+  <a href="https://github.com/Manjeetshekhawat0609/REPO_NAME_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Manjeetshekhawat0609&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=05070c&title_color=00f5d4&icon_color=00bbf9&text_color=94a3b8" alt="Project 2" width="48%" />
   </a>
 
   <br />
 
-  <a href="https://github.com/Manjeetshekhawat0609/project-ml">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Manjeetshekhawat0609&repo=project-ml&theme=tokyonight&hide_border=true&bg_color=05070c&title_color=00f5d4&icon_color=00bbf9&text_color=94a3b8" alt="Project 3" width="48%" />
+  <a href="https://github.com/Manjeetshekhawat0609/REPO_NAME_3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Manjeetshekhawat0609&repo=REPO_NAME_3&theme=tokyonight&hide_border=true&bg_color=05070c&title_color=00f5d4&icon_color=00bbf9&text_color=94a3b8" alt="Project 3" width="48%" />
   </a>
-  <a href="https://github.com/Manjeetshekhawat0609/c_learning">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Manjeetshekhawat0609&repo=c_learning&theme=tokyonight&hide_border=true&bg_color=05070c&title_color=00f5d4&icon_color=00bbf9&text_color=94a3b8" alt="Project 4" width="48%" />
+  <a href="https://github.com/Manjeetshekhawat0609/REPO_NAME_4">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Manjeetshekhawat0609&repo=REPO_NAME_4&theme=tokyonight&hide_border=true&bg_color=05070c&title_color=00f5d4&icon_color=00bbf9&text_color=94a3b8" alt="Project 4" width="48%" />
   </a>
 
 </div>
@@ -265,9 +266,9 @@
 </p>
 
 <p align="center">
-  <i>⭐ If you Like My Project/Repo then Star it. </i>
+  <i>⭐ Agar mera koi project pasand aaye to repo ko star zaroor karna!</i>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f5d4&height=100&section=footer" width="100%"/>
+  <img src="./assets/footer.svg" width="100%" alt="Footer" />
 </p>
