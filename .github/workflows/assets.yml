@@ -1,0 +1,56 @@
+name: Update Profile Assets
+
+on:
+  schedule:
+    - cron: "30 0 * * *"   # har din ek baar
+  workflow_dispatch:        # manually bhi chala sakte ho
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/assets.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Fetch trophies and contribution graph
+        run: |
+          mkdir -p assets
+
+          # Service busy ho to 5 baar retry karta hai.
+          # Fail ho jaye to purani file waise hi rehti hai.
+          fetch() {
+            url="$1"
+            out="$2"
+            for i in 1 2 3 4 5; do
+              if curl -fsSL --max-time 60 "$url" -o "/tmp/$out" && grep -q "<svg" "/tmp/$out"; then
+                mv "/tmp/$out" "assets/$out"
+                echo "OK: $out"
+                return 0
+              fi
+              echo "Retry $i for $out"
+              sleep 15
+            done
+            echo "FAILED: $out (purani file rehne di)"
+            return 0
+          }
+
+          fetch "https://github-profile-trophy.vercel.app/?username=Manjeetshekhawat0609&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" trophies.svg
+
+          fetch "https://github-readme-activity-graph.vercel.app/graph?username=Manjeetshekhawat0609&bg_color=05070c&color=00f5d4&line=00bbf9&point=ffffff&area=true&area_color=00f5d4&hide_border=true&custom_title=Contribution%20Graph" activity-graph.svg
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets
+          git diff --cached --quiet || git commit -m "chore: refresh profile assets"
+          git push
