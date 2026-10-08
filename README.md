@@ -80,7 +80,6 @@
 
 </div>
 
-> 💡 *Progress bars ke numbers apne hisaab se change kar lena (URL me `/progress/75` wali value).*
 
 ---
 
